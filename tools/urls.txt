@@ -546,3 +546,4 @@ https://youtube.com
 https://zeit.de
 https://zendesk.com
 https://ziddu.com
+https://untrusted-root.badssl.com/
